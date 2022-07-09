@@ -1,0 +1,19 @@
+Passo a passo para geração de token no GitHub.
+
+Esse token será utilizado na hora da senha.
+
+Passo a passo no GitHub:
+
+1. Na esquerda da tela, clicar na foto de perfil. A seguir em settings.
+
+2. Depois clicar em "Personal access token".
+
+3. Generate New Token.
+
+4. Selecione o nome de usuário e uma data de expiração do token.
+
+5. Marque a opção REPO e "Generate Token".
+
+6. Copie e salve este token em um lugar seguro no seu pc.
+
+Quando der o 'push' no Git Bash, o token será solicitado para confirmar sua identidade.
